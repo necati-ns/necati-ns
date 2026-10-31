@@ -38,11 +38,47 @@
 
 ---
 
+### <img src="https://img.shields.io/badge/Yetenek_Seviyeleri-000000?style=for-the-badge&logo=codeforces&logoColor=38B2AC" />
+
+<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/html5.svg"></code> **HTML5 / CSS3**
+<br>
+<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/javascript.svg"></code> **JavaScript / TypeScript**
+<br>
+<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/react.svg"></code> **React / Next.js / Tailwind**
+<br>
+<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/python.svg"></code> **Python & Flask**
+<br>
+<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/arduino.svg"></code> **Gömülü Sistemler & Aviyonik**
+
+---
+
 ### <img src="https://img.shields.io/badge/Aktif_Projelerim-000000?style=for-the-badge&logo=rocket&logoColor=38B2AC" />
 
 * <img src="https://img.shields.io/badge/TEKNOFEST-ED1C24?style=flat-square&logo=target&logoColor=white" /> **İMHAD-İLTERİŞ Projesi:** Otonom araç ve İHA yazılım altyapıları.
 * <img src="https://img.shields.io/badge/NS--CODiNG-000000?style=flat-square&logo=codeforces&logoColor=38B2AC" /> **Web Çözümleri:** Ölçeklenebilir web tabanlı SaaS projeleri ve dijital ajans operasyonları.
 * <img src="https://img.shields.io/badge/Avionics-00979D?style=flat-square&logo=arduino&logoColor=white" /> **Gömülü Sistemler:** Pixhawk, ArduPilot ve aviyonik sistem entegrasyonları.
+
+---
+
+### <img src="https://img.shields.io/badge/GitHub_Kupaları_&_İstatistikler-000000?style=for-the-badge&logo=github&logoColor=38B2AC" />
+
+<!-- GitHub Trophies (Kupalar) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=necati-ns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
+
+<!-- GitHub Streak Kartı -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=necati-ns&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+---
+
+### <img src="https://img.shields.io/badge/Geliştirici_Günün_Sözü-000000?style=for-the-badge&logo=quote&logoColor=38B2AC" />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Geliştirici Sözü" />
+</p>
 
 ---
 
