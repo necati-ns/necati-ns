@@ -57,7 +57,7 @@
 
 ### <img src="https://img.shields.io/badge/Aktif_Projeler_ve_Odak-000000?style=for-the-badge&logo=rocket&logoColor=38B2AC" />
 
-* <img src="https://img.shields.io/badge/TEKNOFEST-ED1C24?style=flat-square&logo=target&logoColor=white" /> **İMHAD-İLTERİŞ / İMHAD-SEKMEN:** Otonom araç ve İHA sistemleri için yazılım algoritmaları, yer istasyonu arayüzleri ve görev planlama altyapıları.
+* <img src="https://img.shields.io/badge/TEKNOFEST-ED1C24?style=flat-square&logo=target&logoColor=white" /> **İMHAD-İLTERİŞ:** Otonom araç ve İHA sistemleri için yazılım algoritmaları, yer istasyonu arayüzleri ve görev planlama altyapıları.
 * <img src="https://img.shields.io/badge/NS--CODiNG-000000?style=flat-square&logo=codeforces&logoColor=38B2AC" /> **NS-CODiNG Salon Pro & SaaS Çözümleri:** Çok kiracılı (multi-tenant) rezervasyon sistemleri, dinamik randevu panelleri ve PHP/Supabase tabanlı iş otomasyonları.
 * <img src="https://img.shields.io/badge/Avionics-00979D?style=flat-square&logo=arduino&logoColor=white" /> **Gömülü Sistemler ve Batarya Analizörleri:** Arduino ve Electron tabanlı masaüstü arayüzleriyle entegre test cihazları ve donanım test kitleri.
 
