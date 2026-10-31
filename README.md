@@ -12,7 +12,7 @@
 * 🔭 **NS-CODiNG** bünyesinde React ve Supabase ile modern web uygulamaları geliştiriyorum[cite: 1].
 * ✈️ Sabit kanatlı İHA yazılımı, otonom sistemler ve TEKNOFEST projeleri (İMHAD-İLTERİŞ) üzerinde çalışıyorum[cite: 1].
 * 🌐 Dijital geleceği şekillendirmek için yazılım ve donanımı birleştiriyorum[cite: 1].
-* 📍 İzmir, Türkiye'de yaşıyorum[cite: 1].
+* 📍 İzmir, Türkiye'de yaşıyorum.
 
 ---
 
