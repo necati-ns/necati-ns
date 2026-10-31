@@ -50,7 +50,8 @@
 
 * <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=google-chrome&logoColor=white" /> Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
 * <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
-* <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
+* <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> NS-CODiNG Instagram: [@nscoding.tr](https://www.instagram.com/nscoding.tr/)
+* <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> Kişisel Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=80&section=footer" />
