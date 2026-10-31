@@ -40,15 +40,13 @@
 
 ### <img src="https://img.shields.io/badge/Yetenek_Seviyeleri-000000?style=for-the-badge&logo=codeforces&logoColor=38B2AC" />
 
-<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/html5.svg"></code> **HTML5 / CSS3**
-<br>
-<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/javascript.svg"></code> **JavaScript / TypeScript**
-<br>
-<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/react.svg"></code> **React / Next.js / Tailwind**
-<br>
-<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/python.svg"></code> **Python & Flask**
-<br>
-<code><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/arduino.svg"></code> **Gömülü Sistemler & Aviyonik**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_%2F_TypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_%2F_Next.js_%2F_Tailwind-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python_%2F_Flask-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gömülü_Sistemler_%2F_Aviyonik-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
@@ -60,14 +58,12 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/GitHub_Kupaları_&_İstatistikler-000000?style=for-the-badge&logo=github&logoColor=38B2AC" />
+### <img src="https://img.shields.io/badge/GitHub_Kupaları_%&_İstatistikler-000000?style=for-the-badge&logo=github&logoColor=38B2AC" />
 
-<!-- GitHub Trophies (Kupalar) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=necati-ns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
-<!-- GitHub Streak Kartı -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=necati-ns&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
@@ -82,7 +78,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/İletişim_&_Sosyal-000000?style=for-the-badge&logo=minutemailer&logoColor=38B2AC" />
+### <img src="https://img.shields.io/badge/İletişim_%&_Sosyal-000000?style=for-the-badge&logo=minutemailer&logoColor=38B2AC" />
 
 * <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=google-chrome&logoColor=white" /> Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
 * <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
