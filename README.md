@@ -9,9 +9,9 @@
 ---
 
 ### 💻 Hakkımda
-* 🔭 **NS-CODiNG** bünyesinde React ve Supabase ile modern web uygulamaları geliştiriyorum[cite: 1].
-* ✈️ Sabit kanatlı İHA yazılımı, otonom sistemler ve TEKNOFEST projeleri (İMHAD-İLTERİŞ) üzerinde çalışıyorum[cite: 1].
-* 🌐 Dijital geleceği şekillendirmek için yazılım ve donanımı birleştiriyorum[cite: 1].
+* 🔭 **NS-CODiNG** bünyesinde React ve Supabase ile modern web uygulamaları geliştiriyorum.
+* ✈️ Sabit kanatlı İHA yazılımı, otonom sistemler ve TEKNOFEST projeleri (İMHAD-İLTERİŞ) üzerinde çalışıyorum.
+* 🌐 Dijital geleceği şekillendirmek için yazılım ve donanımı birleştiriyorum.
 * 📍 İzmir, Türkiye'de yaşıyorum.
 
 ---
@@ -38,7 +38,7 @@
 
 ### 🌐 Sosyal Ağlar & İletişim
 
-* 🌐 Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
-* 📸 Instagram: [nscoding.tr](https://www.instagram.com/nscoding.tr)[cite: 1]
-* 📧 E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
-* 📸 Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
+* 🌐 Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)]
+* 📸 Instagram: [nscoding.tr](https://www.instagram.com/nscoding.tr)]
+* 📧 E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)]
+* 📸 Instagram: [@nec4tii](https://instagram.com/nec4tii)]
