@@ -8,7 +8,8 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Laptop.png" width="30" height="30" /> Hakkımda
+### <img src="https://img.shields.io/badge/Hakkımda-000000?style=for-the-badge&logo=About.me&logoColor=38B2AC" />
+
 * 🔭 **NS-CODiNG** bünyesinde React ve Supabase ile modern web uygulamaları geliştiriyorum[cite: 1].
 * ✈️ Sabit kanatlı İHA yazılımı, otonom sistemler ve TEKNOFEST projeleri (İMHAD-İLTERİŞ) üzerinde çalışıyorum[cite: 1].
 * 🌐 Dijital geleceği şekillendirmek için yazılım ve donanımı birleştiriyorum[cite: 1].
@@ -16,7 +17,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Wrench.png" width="30" height="30" /> Kullandığım Teknolojiler & Araçlar
+### <img src="https://img.shields.io/badge/Kullandığım_Teknolojiler-000000?style=for-the-badge&logo=codeforces&logoColor=38B2AC" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,react,nextjs,tailwind,nodejs,flask,supabase,mysql,git,github,vscode,arduino" />
@@ -37,7 +38,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Travel%20and%20places/Rocket.png" width="30" height="30" /> Aktif Projelerim & Odak Noktalarım
+### <img src="https://img.shields.io/badge/Aktif_Projelerim-000000?style=for-the-badge&logo=rocket&logoColor=38B2AC" />
 
 * <img src="https://img.shields.io/badge/TEKNOFEST-ED1C24?style=flat-square&logo=target&logoColor=white" /> **İMHAD-İLTERİŞ Projesi:** Otonom araç ve İHA yazılım altyapıları.
 * <img src="https://img.shields.io/badge/NS--CODiNG-000000?style=flat-square&logo=codeforces&logoColor=38B2AC" /> **Web Çözümleri:** Ölçeklenebilir web tabanlı SaaS projeleri ve dijital ajans operasyonları.
@@ -45,7 +46,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Satellite.png" width="30" height="30" /> Sosyal Ağlar & İletişim
+### <img src="https://img.shields.io/badge/İletişim_&_Sosyal-000000?style=for-the-badge&logo=minutemailer&logoColor=38B2AC" />
 
 * <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=google-chrome&logoColor=white" /> Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
 * <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
