@@ -58,26 +58,6 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/GitHub_Kupaları_%&_İstatistikler-000000?style=for-the-badge&logo=github&logoColor=38B2AC" />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=necati-ns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=necati-ns&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
----
-
-### <img src="https://img.shields.io/badge/Geliştirici_Günün_Sözü-000000?style=for-the-badge&logo=quote&logoColor=38B2AC" />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Geliştirici Sözü" />
-</p>
-
----
-
 ### <img src="https://img.shields.io/badge/İletişim_%&_Sosyal-000000?style=for-the-badge&logo=minutemailer&logoColor=38B2AC" />
 
 * <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=google-chrome&logoColor=white" /> Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
