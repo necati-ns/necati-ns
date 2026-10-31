@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 Hakkımda
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Laptop.png" width="30" height="30" /> Hakkımda
 * 🔭 **NS-CODiNG** bünyesinde React ve Supabase ile modern web uygulamaları geliştiriyorum[cite: 1].
 * ✈️ Sabit kanatlı İHA yazılımı, otonom sistemler ve TEKNOFEST projeleri (İMHAD-İLTERİŞ) üzerinde çalışıyorum[cite: 1].
 * 🌐 Dijital geleceği şekillendirmek için yazılım ve donanımı birleştiriyorum[cite: 1].
@@ -16,10 +16,9 @@
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Wrench.png" width="30" height="30" /> Kullandığım Teknolojiler & Araçlar
 
 <p align="center">
-  <!-- Diller & Çekirdek -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,react,nextjs,tailwind,nodejs,flask,supabase,mysql,git,github,vscode,arduino" />
 </p>
 
@@ -38,18 +37,19 @@
 
 ---
 
-### 🚀 Aktif Projelerim & Odak Noktalarım
-* **İMHAD-İLTERİŞ TEKNOFEST Projesi:** Otonom araç ve İHA yazılım altyapıları.
-* **NS-CODiNG & Web Çözümleri:** Ölçeklenebilir web tabanlı SaaS projeleri ve dijital ajans operasyonları.
-* **Gömülü Sistemler & Havacılık:** Pixhawk, ArduProfil ve aviyonik sistem entegrasyonları.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Travel%20and%20places/Rocket.png" width="30" height="30" /> Aktif Projelerim & Odak Noktalarım
+
+* <img src="https://img.shields.io/badge/TEKNOFEST-ED1C24?style=flat-square&logo=target&logoColor=white" /> **İMHAD-İLTERİŞ Projesi:** Otonom araç ve İHA yazılım altyapıları.
+* <img src="https://img.shields.io/badge/NS--CODiNG-000000?style=flat-square&logo=codeforces&logoColor=38B2AC" /> **Web Çözümleri:** Ölçeklenebilir web tabanlı SaaS projeleri ve dijital ajans operasyonları.
+* <img src="https://img.shields.io/badge/Avionics-00979D?style=flat-square&logo=arduino&logoColor=white" /> **Gömülü Sistemler:** Pixhawk, ArduPilot ve aviyonik sistem entegrasyonları.
 
 ---
 
-### 🌐 Sosyal Ağlar & İletişim
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Satellite.png" width="30" height="30" /> Sosyal Ağlar & İletişim
 
-* 🌐 Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
-* 📧 E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
-* 📸 Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
+* <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=google-chrome&logoColor=white" /> Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
+* <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
+* <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=80&section=footer" />
