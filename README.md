@@ -39,5 +39,6 @@
 ### 🌐 Sosyal Ağlar & İletişim
 
 * 🌐 Web Sitesi: [nscoding.com.tr](https://nscoding.com.tr)[cite: 1]
+* 📸 Instagram: [nscoding.tr](https://www.instagram.com/nscoding.tr)[cite: 1]
 * 📧 E-posta: [nct0335@gmail.com](mailto:nct0335@gmail.com)[cite: 1]
 * 📸 Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
