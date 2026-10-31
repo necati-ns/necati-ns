@@ -53,6 +53,12 @@
 * <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> NS-CODiNG Instagram: [@nscoding.tr](https://www.instagram.com/nscoding.tr/)
 * <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> Kişisel Instagram: [@nec4tii](https://instagram.com/nec4tii)[cite: 1]
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=necati-ns&color=38B2AC&style=flat-square&label=Profil+Ziyaretcisi" alt="Visitor Count" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=80&section=footer" />
 </p>
